@@ -32,5 +32,5 @@ X_2 Y_2
 X_m Y_m *координаты углов многоугольника*
 ```
 
-<br /> ![poly](/screenshots/poly.png)
+<br /> ![poly](/screenshots/clip.png)
 
